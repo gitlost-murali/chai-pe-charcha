@@ -1,4 +1,4 @@
-# Data Augmentation in NLP
+# Intro to GIS & Hands-On
 
 This week, we discussed `GIS (Geographic Information System)`. Presented by Asra Jabeen and Hands-on by Murali(@gitlost-murali).
 
